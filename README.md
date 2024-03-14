@@ -1,8 +1,8 @@
-# OS-Linux-commands-Shell-scripting
+2 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-
+aA
 # AIM:
 To practice Linux Commands and Shell Scripting
 
@@ -1406,8 +1406,8 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 ```
-Enter your name: SOUNDARYA
-Hello Soundarya, welcome to my program. 
+Enter your name: Aaron
+Hello Aaron, welcome to my program. 
 ```
 
 
@@ -1423,8 +1423,8 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 ```
-Enter your name: SOUNDARYA
-Hello Soundarya, welcome to my program. 
+Enter your name: Aaron
+Hello Aaron, welcome to my program. 
 ```
 
 
